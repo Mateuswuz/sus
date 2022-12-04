@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BetterBOYFRIEND.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN instancia 10000" x="388" y="425" width="375" height="352" frameX="-2" frameY="-5" frameWidth="377" frameHeight="357"/>
+	<SubTexture name="BF NOTE DOWN instancia 10001" x="388" y="425" width="375" height="352" frameX="-2" frameY="-5" frameWidth="377" frameHeight="357"/>
+	<SubTexture name="BF NOTE DOWN instancia 10002" x="6" y="425" width="373" height="357" frameX="0" frameY="0" frameWidth="377" frameHeight="357"/>
+	<SubTexture name="BF NOTE DOWN instancia 10003" x="6" y="425" width="373" height="357" frameX="0" frameY="0" frameWidth="377" frameHeight="357"/>
+	<SubTexture name="BF NOTE LEFT instancia 10000" x="5" y="873" width="383" height="397"/>
+	<SubTexture name="BF NOTE LEFT instancia 10001" x="5" y="873" width="383" height="397"/>
+	<SubTexture name="BF NOTE LEFT instancia 10002" x="389" y="873" width="373" height="396" frameX="-10" frameY="-1" frameWidth="383" frameHeight="397"/>
+	<SubTexture name="BF NOTE LEFT instancia 10003" x="389" y="873" width="373" height="396" frameX="-10" frameY="-1" frameWidth="383" frameHeight="397"/>
+	<SubTexture name="BF NOTE RIGHT instancia 10000" x="772" y="874" width="383" height="399" frameX="-1" frameY="-2" frameWidth="387" frameHeight="403"/>
+	<SubTexture name="BF NOTE RIGHT instancia 10001" x="772" y="874" width="383" height="399" frameX="-1" frameY="-2" frameWidth="387" frameHeight="403"/>
+	<SubTexture name="BF NOTE RIGHT instancia 10002" x="1157" y="874" width="383" height="401" frameX="0" frameY="0" frameWidth="387" frameHeight="403"/>
+	<SubTexture name="BF NOTE RIGHT instancia 10003" x="1157" y="874" width="383" height="401" frameX="0" frameY="0" frameWidth="387" frameHeight="403"/>
+	<SubTexture name="BF NOTE UP instancia 10000" x="775" y="425" width="345" height="438" frameX="-4" frameY="0" frameWidth="353" frameHeight="439"/>
+	<SubTexture name="BF NOTE UP instancia 10001" x="775" y="425" width="345" height="438" frameX="-4" frameY="0" frameWidth="353" frameHeight="439"/>
+	<SubTexture name="BF NOTE UP instancia 10002" x="1121" y="426" width="353" height="432" frameX="0" frameY="-5" frameWidth="353" frameHeight="439"/>
+	<SubTexture name="BF NOTE UP instancia 10003" x="1121" y="426" width="353" height="432" frameX="0" frameY="-5" frameWidth="353" frameHeight="439"/>
+	<SubTexture name="BF idle dance instancia 10000" x="7" y="6" width="385" height="388" frameX="-1" frameY="-19" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10001" x="7" y="6" width="385" height="388" frameX="-1" frameY="-19" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10002" x="393" y="6" width="388" height="388" frameX="0" frameY="-17" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10003" x="393" y="6" width="388" height="388" frameX="0" frameY="-17" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10004" x="781" y="7" width="384" height="393" frameX="-3" frameY="-12" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10005" x="781" y="7" width="384" height="393" frameX="-3" frameY="-12" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10006" x="1167" y="7" width="387" height="404" frameX="-1" frameY="-1" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10007" x="1167" y="7" width="387" height="404" frameX="-1" frameY="-1" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10008" x="1553" y="7" width="387" height="405" frameX="-2" frameY="0" frameWidth="389" frameHeight="407"/>
+	<SubTexture name="BF idle dance instancia 10009" x="1553" y="7" width="387" height="405" frameX="-2" frameY="0" frameWidth="389" frameHeight="407"/>
+</TextureAtlas>
